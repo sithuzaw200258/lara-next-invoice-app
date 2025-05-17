@@ -5,6 +5,5 @@
 @source "../../.flowbite-react/class-list.json";
 
 @theme {
-  /* --font-display: "Poppins", "sans-serif"; */
   --font-sans: "Poppins","Padauk", sans-serif; 
 }
